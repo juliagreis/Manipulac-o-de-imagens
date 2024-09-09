@@ -1,4 +1,4 @@
-Manipulador de imagens
+Manipulador de imagens em C++
 
 Para utilizar, basta baixar os arquivos dentro da pasta ZIP e compilar o arquivo cpp usando g++ filtro-editor.cpp
 
